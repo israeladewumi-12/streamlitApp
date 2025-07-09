@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the CSV file
-file_path = r"C:\streamlit2\my_App\pages\Nigeria_Debt_Servicing_Percentage_1999_2024.csv"
+file_path = r"./pages/Nigeria_Debt_Servicing_Percentage_1999_2024.csv"
 df = pd.read_csv(file_path)
 
 # App title
