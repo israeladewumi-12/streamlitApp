@@ -1,0 +1,151 @@
+StudentID,Gender,Subject,Score,StudyHours,GradeLevel
+S001,Female,Science,37,4.4,Primary 6
+S002,Female,Science,97,3.3,JSS1
+S003,Female,English,64,5.6,Primary 5
+S004,Male,English,50,3.2,JSS1
+S005,Female,Math,99,5.1,Primary 6
+S006,Female,Science,89,4.9,JSS1
+S007,Female,English,64,3.1,Primary 5
+S008,Female,Science,99,4.4,JSS1
+S009,Female,English,55,2.6,Primary 5
+S010,Female,Science,63,2.7,Primary 6
+S011,Female,English,39,4.0,Primary 5
+S012,Male,Science,73,1.3,JSS1
+S013,Male,Science,50,5.7,Primary 6
+S014,Female,English,60,2.7,JSS1
+S015,Male,English,33,3.0,Primary 5
+S016,Female,Math,76,5.8,JSS1
+S017,Male,Math,59,2.5,Primary 6
+S018,Male,Science,77,0.9,Primary 6
+S019,Male,Science,57,4.6,JSS1
+S020,Male,English,55,3.3,JSS1
+S021,Female,Science,87,2.7,Primary 6
+S022,Male,English,51,6.0,Primary 6
+S023,Female,Science,59,1.5,JSS1
+S024,Male,English,36,2.8,JSS1
+S025,Female,Math,84,0.0,Primary 5
+S026,Female,English,77,0.4,Primary 5
+S027,Female,Science,77,0.1,Primary 6
+S028,Male,Math,90,2.6,Primary 6
+S029,Male,Science,36,3.4,Primary 5
+S030,Female,Science,83,2.0,JSS1
+S031,Female,Science,74,4.7,JSS1
+S032,Female,Math,69,2.6,Primary 6
+S033,Female,Math,62,4.2,Primary 5
+S034,Male,Math,51,2.3,Primary 6
+S035,Male,Math,44,2.7,Primary 5
+S036,Male,Math,50,6.2,Primary 5
+S037,Female,English,31,3.9,JSS1
+S038,Female,Science,55,2.6,Primary 5
+S039,Male,Math,75,3.2,Primary 5
+S040,Male,Science,62,0.4,Primary 6
+S041,Male,Math,61,4.6,Primary 6
+S042,Female,Science,71,3.2,Primary 6
+S043,Female,Science,52,3.2,JSS1
+S044,Female,Math,76,3.3,Primary 5
+S045,Male,Math,54,2.9,Primary 5
+S046,Female,English,71,2.5,JSS1
+S047,Female,English,66,1.5,Primary 6
+S048,Female,Science,61,3.5,JSS1
+S049,Female,Science,46,3.9,Primary 5
+S050,Male,Math,52,5.7,Primary 6
+S051,Male,Science,33,3.8,Primary 6
+S052,Male,Math,42,1.1,Primary 5
+S053,Female,Math,39,3.7,Primary 5
+S054,Female,Math,69,4.1,Primary 6
+S055,Male,Science,94,5.1,JSS1
+S056,Female,English,92,4.6,Primary 6
+S057,Female,English,98,-0.5,JSS1
+S058,Male,Math,99,1.8,Primary 5
+S059,Male,Science,89,6.1,JSS1
+S060,Male,English,82,1.6,Primary 5
+S061,Female,Math,37,3.9,JSS1
+S062,Male,Math,70,0.1,Primary 5
+S063,Male,English,44,2.8,Primary 6
+S064,Female,Math,79,3.1,Primary 6
+S065,Male,English,55,4.5,Primary 5
+S066,Male,English,87,3.6,Primary 6
+S067,Female,English,70,3.0,Primary 6
+S068,Female,Math,47,-0.5,Primary 6
+S069,Female,English,62,1.2,JSS1
+S070,Female,English,57,2.4,Primary 6
+S071,Male,Science,77,2.7,JSS1
+S072,Male,Science,43,2.6,Primary 5
+S073,Male,English,45,3.0,Primary 6
+S074,Male,Science,48,2.9,Primary 5
+S075,Male,English,78,2.3,JSS1
+S076,Female,Math,95,4.9,JSS1
+S077,Male,English,64,2.1,Primary 5
+S078,Female,Math,35,0.4,JSS1
+S079,Female,English,76,3.9,Primary 5
+S080,Female,Science,57,2.9,Primary 6
+S081,Female,Science,56,3.0,Primary 6
+S082,Female,Science,50,2.7,Primary 6
+S083,Male,Science,47,3.8,JSS1
+S084,Male,English,89,3.7,Primary 5
+S085,Male,Math,94,2.7,Primary 5
+S086,Female,English,74,4.0,JSS1
+S087,Female,English,34,5.0,Primary 5
+S088,Male,Math,81,3.2,Primary 5
+S089,Female,Science,79,1.8,Primary 5
+S090,Male,Science,67,4.8,Primary 6
+S091,Male,English,83,4.0,Primary 5
+S092,Female,Math,35,3.5,Primary 5
+S093,Male,English,67,3.3,JSS1
+S094,Female,English,86,2.3,JSS1
+S095,Male,Science,65,1.0,JSS1
+S096,Female,Math,45,1.3,Primary 6
+S097,Male,Math,70,2.6,JSS1
+S098,Male,Math,72,4.1,Primary 6
+S099,Male,Science,67,3.2,Primary 5
+S100,Male,Science,76,3.0,JSS1
+S101,Female,English,66,4.4,Primary 6
+S102,Female,English,73,4.5,Primary 5
+S103,Male,Math,57,4.1,Primary 5
+S104,Female,Math,96,4.2,Primary 6
+S105,Male,Science,87,2.8,JSS1
+S106,Female,Math,33,1.9,Primary 6
+S107,Male,Math,85,2.4,JSS1
+S108,Female,Math,71,-0.6,Primary 6
+S109,Female,Math,97,2.2,Primary 6
+S110,Female,English,97,3.1,Primary 5
+S111,Male,Science,99,3.2,Primary 5
+S112,Male,Math,50,4.0,Primary 5
+S113,Male,Science,45,1.5,Primary 5
+S114,Female,Math,87,1.8,JSS1
+S115,Male,Math,39,2.9,Primary 5
+S116,Female,Science,99,3.5,JSS1
+S117,Female,English,81,1.5,Primary 5
+S118,Male,English,84,3.3,Primary 5
+S119,Female,Science,75,0.9,Primary 6
+S120,Male,English,68,1.6,Primary 5
+S121,Female,English,45,2.3,JSS1
+S122,Male,English,72,1.5,Primary 5
+S123,Female,English,91,0.8,JSS1
+S124,Female,Science,38,1.2,Primary 5
+S125,Male,English,33,3.9,Primary 6
+S126,Female,Science,71,3.0,JSS1
+S127,Male,Science,54,3.8,JSS1
+S128,Male,English,58,0.4,JSS1
+S129,Female,Science,73,3.3,JSS1
+S130,Female,Math,78,2.0,JSS1
+S131,Male,English,99,4.1,JSS1
+S132,Female,Math,72,0.0,Primary 6
+S133,Male,Science,96,2.0,Primary 6
+S134,Female,Science,96,3.3,Primary 5
+S135,Male,Science,44,0.6,JSS1
+S136,Male,Science,83,2.2,Primary 5
+S137,Female,English,76,4.0,JSS1
+S138,Female,Math,44,3.9,Primary 6
+S139,Female,English,57,1.6,JSS1
+S140,Male,Math,98,6.4,JSS1
+S141,Female,English,51,2.3,Primary 5
+S142,Female,English,68,1.6,Primary 6
+S143,Male,Science,72,7.2,Primary 6
+S144,Male,Science,60,3.1,Primary 5
+S145,Female,Science,86,3.1,JSS1
+S146,Female,Math,95,2.6,Primary 6
+S147,Female,Science,67,4.1,JSS1
+S148,Male,English,96,0.6,Primary 6
+S149,Female,Math,46,2.2,JSS1
+S150,Male,English,90,6.6,JSS1

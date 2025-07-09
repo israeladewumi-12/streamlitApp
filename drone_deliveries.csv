@@ -1,0 +1,201 @@
+DeliveryID,City,DeliveryTime (min),PackageWeight (kg),DroneModel,Successful
+D0001,Kano,29,2.72,AirXpress,True
+D0002,Port Harcourt,32,0.87,SwiftBee,True
+D0003,Ibadan,35,0.91,SkyMax,True
+D0004,Port Harcourt,35,3.21,SkyMax,True
+D0005,Port Harcourt,30,2.99,AirXpress,True
+D0006,Abuja,18,1.46,FalconX,False
+D0007,Ibadan,37,4.76,FalconX,False
+D0008,Ibadan,34,4.02,SwiftBee,True
+D0009,Ibadan,19,1.01,AirXpress,True
+D0010,Port Harcourt,23,4.69,FalconX,False
+D0011,Kano,38,4.88,AirXpress,True
+D0012,Ibadan,36,4.98,FalconX,True
+D0013,Port Harcourt,22,0.75,SkyMax,True
+D0014,Abuja,27,3.82,FalconX,True
+D0015,Kano,28,2.96,AirXpress,True
+D0016,Abuja,36,3.68,SkyMax,True
+D0017,Kano,42,4.86,SkyMax,True
+D0018,Port Harcourt,30,3.6,SkyMax,True
+D0019,Lagos,41,4.27,AirXpress,True
+D0020,Kano,38,4.4,SwiftBee,True
+D0021,Abuja,32,4.27,SwiftBee,False
+D0022,Port Harcourt,15,2.42,SwiftBee,True
+D0023,Kano,19,1.5,AirXpress,True
+D0024,Lagos,37,2.28,SkyMax,True
+D0025,Lagos,12,4.51,SwiftBee,True
+D0026,Ibadan,31,1.16,AirXpress,True
+D0027,Ibadan,40,2.81,SwiftBee,True
+D0028,Abuja,31,1.55,FalconX,True
+D0029,Kano,23,3.12,SwiftBee,True
+D0030,Kano,21,4.38,SwiftBee,True
+D0031,Ibadan,38,4.46,SkyMax,True
+D0032,Kano,34,1.57,AirXpress,True
+D0033,Kano,27,4.58,SkyMax,True
+D0034,Lagos,40,3.16,SkyMax,True
+D0035,Ibadan,38,2.08,SkyMax,True
+D0036,Port Harcourt,47,3.69,SkyMax,True
+D0037,Ibadan,35,2.67,SkyMax,True
+D0038,Port Harcourt,28,2.2,SwiftBee,True
+D0039,Lagos,28,3.67,SkyMax,True
+D0040,Abuja,10,1.62,SkyMax,True
+D0041,Kano,31,1.99,AirXpress,True
+D0042,Lagos,29,2.46,FalconX,True
+D0043,Kano,16,1.64,SwiftBee,True
+D0044,Abuja,29,2.32,SwiftBee,True
+D0045,Abuja,43,3.07,SwiftBee,True
+D0046,Lagos,22,3.83,SkyMax,True
+D0047,Abuja,20,3.95,SkyMax,False
+D0048,Port Harcourt,41,4.2,SkyMax,True
+D0049,Abuja,36,3.85,AirXpress,True
+D0050,Kano,60,3.56,FalconX,True
+D0051,Kano,16,1.57,SkyMax,True
+D0052,Kano,37,2.3,FalconX,True
+D0053,Kano,33,2.65,AirXpress,True
+D0054,Port Harcourt,30,0.87,SwiftBee,True
+D0055,Ibadan,39,2.88,SkyMax,True
+D0056,Lagos,29,2.46,FalconX,True
+D0057,Kano,10,4.11,FalconX,True
+D0058,Abuja,21,4.9,SkyMax,True
+D0059,Kano,43,3.0,SwiftBee,True
+D0060,Abuja,41,1.95,SwiftBee,True
+D0061,Abuja,26,0.7,SwiftBee,True
+D0062,Kano,35,4.66,AirXpress,True
+D0063,Port Harcourt,57,4.64,FalconX,True
+D0064,Abuja,29,1.64,FalconX,True
+D0065,Abuja,29,3.63,FalconX,True
+D0066,Kano,31,0.84,AirXpress,True
+D0067,Abuja,36,1.25,FalconX,True
+D0068,Abuja,26,1.48,AirXpress,True
+D0069,Kano,36,1.83,SwiftBee,True
+D0070,Kano,10,4.98,SkyMax,True
+D0071,Lagos,33,3.64,FalconX,True
+D0072,Port Harcourt,30,2.23,FalconX,False
+D0073,Port Harcourt,27,3.82,SwiftBee,True
+D0074,Abuja,25,4.62,SkyMax,True
+D0075,Port Harcourt,23,4.81,AirXpress,True
+D0076,Abuja,21,0.76,SkyMax,True
+D0077,Lagos,6,2.28,SwiftBee,True
+D0078,Kano,27,0.98,SwiftBee,False
+D0079,Kano,40,2.01,SkyMax,True
+D0080,Kano,26,1.26,AirXpress,True
+D0081,Port Harcourt,36,3.41,AirXpress,True
+D0082,Lagos,19,2.25,FalconX,True
+D0083,Port Harcourt,16,1.53,AirXpress,True
+D0084,Port Harcourt,22,1.7,SkyMax,True
+D0085,Lagos,19,2.12,SwiftBee,False
+D0086,Lagos,18,1.67,FalconX,True
+D0087,Lagos,34,2.54,FalconX,True
+D0088,Lagos,47,0.65,SwiftBee,True
+D0089,Kano,23,1.76,AirXpress,True
+D0090,Ibadan,13,2.35,SwiftBee,True
+D0091,Ibadan,36,3.21,AirXpress,True
+D0092,Lagos,15,1.72,SwiftBee,True
+D0093,Ibadan,18,1.1,SkyMax,True
+D0094,Ibadan,34,0.84,AirXpress,True
+D0095,Lagos,28,4.73,SkyMax,False
+D0096,Ibadan,23,2.37,FalconX,True
+D0097,Port Harcourt,30,3.12,SwiftBee,True
+D0098,Abuja,25,4.64,FalconX,True
+D0099,Abuja,48,0.87,FalconX,True
+D0100,Lagos,23,4.44,FalconX,True
+D0101,Kano,20,2.98,FalconX,True
+D0102,Lagos,25,1.24,SwiftBee,True
+D0103,Kano,25,2.35,FalconX,True
+D0104,Abuja,35,4.0,SwiftBee,True
+D0105,Lagos,10,2.66,SwiftBee,True
+D0106,Port Harcourt,34,4.93,SkyMax,True
+D0107,Ibadan,24,2.2,AirXpress,True
+D0108,Kano,37,3.87,AirXpress,True
+D0109,Ibadan,29,2.27,SwiftBee,True
+D0110,Ibadan,35,4.23,SkyMax,True
+D0111,Lagos,26,3.06,SwiftBee,True
+D0112,Ibadan,34,0.79,SwiftBee,True
+D0113,Port Harcourt,46,0.67,SwiftBee,False
+D0114,Ibadan,22,1.1,SkyMax,True
+D0115,Lagos,28,0.56,AirXpress,True
+D0116,Port Harcourt,25,0.84,SkyMax,False
+D0117,Abuja,45,3.61,FalconX,True
+D0118,Ibadan,25,2.9,SkyMax,True
+D0119,Lagos,22,3.87,SkyMax,False
+D0120,Abuja,24,4.61,SkyMax,True
+D0121,Abuja,28,3.13,SkyMax,True
+D0122,Kano,22,3.77,AirXpress,True
+D0123,Port Harcourt,26,3.91,FalconX,True
+D0124,Ibadan,31,2.2,AirXpress,True
+D0125,Lagos,28,1.58,AirXpress,True
+D0126,Kano,38,1.42,SkyMax,True
+D0127,Port Harcourt,26,1.63,SwiftBee,True
+D0128,Kano,27,1.74,SwiftBee,True
+D0129,Port Harcourt,32,1.43,AirXpress,True
+D0130,Port Harcourt,52,4.45,AirXpress,False
+D0131,Ibadan,22,3.91,SkyMax,True
+D0132,Port Harcourt,49,0.71,AirXpress,True
+D0133,Kano,18,1.71,SkyMax,True
+D0134,Port Harcourt,32,0.6,SwiftBee,True
+D0135,Ibadan,26,2.74,SwiftBee,True
+D0136,Ibadan,21,2.64,FalconX,True
+D0137,Kano,36,4.24,SwiftBee,True
+D0138,Abuja,35,1.88,AirXpress,True
+D0139,Abuja,25,4.17,SwiftBee,True
+D0140,Port Harcourt,9,4.86,SkyMax,True
+D0141,Lagos,25,0.9,SwiftBee,True
+D0142,Port Harcourt,31,4.06,FalconX,True
+D0143,Kano,30,3.15,SwiftBee,True
+D0144,Kano,37,2.66,SkyMax,True
+D0145,Kano,49,2.39,SkyMax,True
+D0146,Kano,34,4.03,AirXpress,True
+D0147,Kano,35,3.38,SwiftBee,True
+D0148,Ibadan,31,4.12,SkyMax,True
+D0149,Abuja,41,4.56,FalconX,True
+D0150,Kano,35,3.28,AirXpress,True
+D0151,Lagos,37,4.91,FalconX,True
+D0152,Lagos,48,3.24,SwiftBee,True
+D0153,Lagos,32,3.36,SwiftBee,True
+D0154,Lagos,27,3.0,SwiftBee,True
+D0155,Ibadan,34,0.91,AirXpress,True
+D0156,Lagos,41,3.77,SkyMax,True
+D0157,Kano,35,2.96,AirXpress,True
+D0158,Port Harcourt,40,2.53,FalconX,True
+D0159,Lagos,23,4.6,AirXpress,True
+D0160,Ibadan,21,1.84,FalconX,True
+D0161,Ibadan,24,2.86,AirXpress,True
+D0162,Lagos,17,3.64,SkyMax,False
+D0163,Port Harcourt,31,4.08,FalconX,True
+D0164,Lagos,25,2.57,SwiftBee,True
+D0165,Ibadan,42,4.29,SwiftBee,True
+D0166,Abuja,17,3.96,AirXpress,True
+D0167,Kano,45,0.8,SwiftBee,True
+D0168,Ibadan,20,0.71,FalconX,True
+D0169,Lagos,17,3.29,SwiftBee,True
+D0170,Kano,21,2.06,SkyMax,True
+D0171,Lagos,49,1.44,SkyMax,True
+D0172,Lagos,29,3.11,AirXpress,True
+D0173,Abuja,35,2.04,FalconX,True
+D0174,Kano,28,2.92,SkyMax,True
+D0175,Kano,29,2.57,SkyMax,True
+D0176,Abuja,24,3.13,FalconX,True
+D0177,Ibadan,30,2.3,SwiftBee,False
+D0178,Lagos,34,3.64,SwiftBee,True
+D0179,Port Harcourt,46,1.31,AirXpress,True
+D0180,Lagos,11,3.63,SwiftBee,False
+D0181,Lagos,46,2.35,FalconX,False
+D0182,Ibadan,35,4.43,SkyMax,True
+D0183,Lagos,26,2.82,SwiftBee,True
+D0184,Abuja,24,4.88,AirXpress,True
+D0185,Abuja,40,3.21,SwiftBee,True
+D0186,Kano,32,1.51,FalconX,True
+D0187,Port Harcourt,14,4.2,AirXpress,True
+D0188,Lagos,33,2.05,SwiftBee,True
+D0189,Lagos,41,2.06,AirXpress,True
+D0190,Ibadan,38,0.64,FalconX,True
+D0191,Abuja,23,2.97,SkyMax,True
+D0192,Port Harcourt,16,2.9,FalconX,True
+D0193,Kano,26,2.1,FalconX,False
+D0194,Abuja,62,4.52,FalconX,True
+D0195,Kano,14,1.08,FalconX,True
+D0196,Ibadan,21,1.99,SkyMax,True
+D0197,Ibadan,33,1.95,SkyMax,True
+D0198,Lagos,28,0.92,AirXpress,True
+D0199,Port Harcourt,27,2.67,SwiftBee,True
+D0200,Kano,50,3.6,SkyMax,True
