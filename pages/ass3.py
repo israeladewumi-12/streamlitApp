@@ -6,10 +6,10 @@ import matplotlib.pyplot as plt
 st.title("🇳🇬 Nigeria Data Dashboard")
 
 # File paths
-lgas_file = r"C:\streamlit2\my_App\pages\list_of_local_government_areas_of_nigeria.csv"
-states_file = r"C:\streamlit2\my_App\pages\list-states-nigeria-227j.csv"
-poverty_lga_file = r"C:\streamlit2\my_App\pages\Nigeria povertyrate per local gov.csv"
-poverty_state_file = r"C:\streamlit2\my_App\pages\poverty_nga.csv"
+lgas_file = r"./pages/list_of_local_government_areas_of_nigeria.csv"
+states_file = r"./pages/list-states-nigeria-227j.csv"
+poverty_lga_file = r"./pages/Nigeria povertyrate per local gov.csv"
+poverty_state_file = r"./pages/poverty_nga.csv"
 
 # Load data
 lgas_df = pd.read_csv(lgas_file)

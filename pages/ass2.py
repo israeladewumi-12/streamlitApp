@@ -71,7 +71,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the data
-data1 = pd.read_csv(r"C:\Users\user\Desktop\pandas\MELBOURNE_HOUSE_PRICES_LESS.csv")
+data1 = pd.read_csv(r'./pages/MELBOURNE_HOUSE_PRICES_LESS.csv')
 
 st.title("Melbourne House Prices Explorer")
 
