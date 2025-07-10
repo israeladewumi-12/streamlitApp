@@ -26,3 +26,4 @@ st.pyplot(fig)
 # Optional: summary statistics
 st.subheader("Summary Statistics")
 st.write(df.describe())
+
