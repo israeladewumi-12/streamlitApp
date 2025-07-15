@@ -28,6 +28,7 @@ st.subheader("Choose columns to display")
 selected_columns = st.multiselect("Select columns:", data.columns.tolist(), default=data.columns.tolist())
 st.dataframe(data[selected_columns])
 
+
 # Optional: Filter by population
 st.subheader("Filter by Minimum Population")
 min_pop = st.slider("Minimum population", int(data["population_total"].min()), int(data["population_total"].max()), 50000)
