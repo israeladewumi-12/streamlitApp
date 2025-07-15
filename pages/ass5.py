@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load the data
-melbourn = pd.read_csv(r'C:\Users\user\Desktop\pandas\Melbourne_housing_FULL.csv')
+melbourn = pd.read_csv(r'./pages/Melbourne_housing_FULL.csv')
 
 st.title("Melbourne Housing Market Explorer")
 

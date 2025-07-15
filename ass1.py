@@ -3,12 +3,11 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-data = pd.read_csv(r'C:\streamlit2\my_App\california_cities.csv')
-data.info()
+
 
 
 # Load the data
-data = pd.read_csv(r'C:\streamlit2\my_App\california_cities.csv')
+data = pd.read_csv(r'./california_cities.csv')
 
 # Set the page title
 st.title("California Cities Data Viewer")
